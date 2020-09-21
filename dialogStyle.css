@@ -1,0 +1,12 @@
+.text-field {
+-fx-background-color: lightblue;
+-fx-background-radius: 10.0;
+-fx-text-fill: black;
+}
+
+.button {
+-fx-background-color: red;
+-fx-text-fill: black;
+-fx-font-size: 14;
+
+}
